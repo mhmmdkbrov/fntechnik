@@ -4,9 +4,9 @@
   const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const sources = [
     ['Forklift Spare Parts in Warehouse.png', 'center right', '63% center'],
-    ['assets/hero/toyota-warehouse.webp', 'center center', '64% center'],
-    ['assets/hero/reach-truck-warehouse.webp', 'center center', '85% center'],
-    ['assets/hero/electric-pallet-truck.webp', 'center center', '60% center']
+    ['assets/hero/modern-forklift-v2.webp', 'center center', '75% center'],
+    ['assets/hero/high-rack-reach-truck-v2.webp', 'center center', '76% center'],
+    ['assets/hero/electric-pallet-truck-v2.webp', 'center center', '95% center']
   ];
   const layer = document.createElement('div');
   layer.className = 'hero-slides';
